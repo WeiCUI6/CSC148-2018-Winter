@@ -4,7 +4,7 @@ Course materials of CSC148 in 2018 Winter at the University of Toronto
 ## Contents
 - Lecture Slides: Official leture slides for CSC148 in University of Toronto
 
-- Quizzes: Quizzes with my solutions (some including sample solutions)
+- Labs: Labs with my solutions (some including sample solutions)
 
 - Midterms: Different versions of midterms with corresponding sample solutions
 
