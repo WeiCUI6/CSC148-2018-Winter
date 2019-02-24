@@ -1,0 +1,20 @@
+"""
+module test lab2
+"""
+
+
+from NumericGradeEntry import NumericGradeEntry
+from LetterGradeEntry import LetterGradeEntry
+
+
+if __name__ == '__main__':
+    grades = [NumericGradeEntry('csc148', 0.5, '87'),
+              NumericGradeEntry('mat137', 1.0, '76'),
+              LetterGradeEntry('his450', 0.5, 'B+')]
+    for g in grades:
+        print("weight: {}, grade: {}, points: {}".format(
+            g.course_weight, g.course_grade, g.get_points()))
+
+    total = sum([g.course_weight * g.get_points() for g in grades])
+    total_weight = sum([g.course_weight for g in grades])
+    print("GPA: {}".format(total / total_weight))
