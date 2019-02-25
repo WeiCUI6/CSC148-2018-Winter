@@ -10,7 +10,7 @@ Course materials of CSC148 in 2018 Winter at the University of Toronto
 
 - Assigments: Two assignments including handouts (starter code) and my solutions
 
-  (Assignment 2 is much more interesting. We basically implemented an AI for the two games, i.e. subtract square and         stonehenge. See more details in Assignment/Assignment 2/strategy.py)
+  (Assignment 2 is much more interesting. We basically implemented an AI (actually it is Minimax Algorithm in Game Theory) for the two games, i.e. subtract square and         stonehenge. See more details in Assignment/Assignment 2/strategy.py)
 
 ## License
 
