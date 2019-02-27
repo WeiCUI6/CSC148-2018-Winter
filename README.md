@@ -1,4 +1,4 @@
-# CSC148-2018-Winter
+# CSC148-2018-Winter Introduction to Computer Science
 Course materials of CSC148 in 2018 Winter at the University of Toronto
 
 ## Contents
